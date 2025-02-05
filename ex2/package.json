@@ -1,7 +1,7 @@
 {
   "name": "ex2",
   "version": "1.0.0",
-  "description": "",
+  "description": "sample express server with modern javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
