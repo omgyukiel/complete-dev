@@ -39,7 +39,8 @@ export const getStaticProps: GetStaticProps = async (
     } catch(err) { console.log(err) }
     return {
         props: {
-            names
+            names,
+            revalidate: 30 // incremental static regeneration
         }
     };
 };
