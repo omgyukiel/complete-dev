@@ -40,7 +40,7 @@ export const getStaticProps: GetStaticProps = async (
     return {
         props: {
             names,
-            revalidate: 30 // incremental static regeneration
+            revalidate: 10 // incremental static regeneration
         }
     };
 };
