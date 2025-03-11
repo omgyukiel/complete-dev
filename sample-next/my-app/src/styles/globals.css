@@ -24,6 +24,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.hello {
+  color:aquamarine;
+  font-weight: bold;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
