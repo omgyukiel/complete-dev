@@ -8,7 +8,7 @@ export const db = [
     },
     {
         zip: "96826",
-        weather: "sunny",
+        weather: "rainy",
         tempC: "30C",
         tempF: "86F",
         friends: ["96814", "96814"]
