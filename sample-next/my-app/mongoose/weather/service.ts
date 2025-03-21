@@ -27,7 +27,9 @@ export async function updateByZip(
     newData: WeatherInterface
 ): Promise<boolean> {
     try {
-        await WeatherModel.updateOne({ zip: paramZip } , newData);
+        console.log(paramZip);
+        const print = await WeatherModel.updateOne({ zip: paramZip } , newData);
+        console.log(print);
         return true;
     } catch (err) {
         console.log(err);
