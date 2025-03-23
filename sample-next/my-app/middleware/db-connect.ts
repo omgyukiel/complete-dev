@@ -32,6 +32,8 @@ async function dbConnect(): Promise<any | string> {
         tempF: "86F",
         friends: ["96815", "96814"]
     });
+
+    return mongoServer;
     
 }
 
