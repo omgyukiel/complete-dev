@@ -1,0 +1,16 @@
+This is a playground to to relearn Full Stack apps by iteratively learning technologies
+I'm using this as an opportunity to learn MongoDB/Mongoose and Containerization with Docker as well
+
+technology stack:
+- node.js
+- modern javascript
+- typescript
+- react
+- next.js
+- rest and grpahql apis
+- mongodb and mongoose
+- jest framework
+
+To Do:
+- authorization with oauth
+- containerization with docker
