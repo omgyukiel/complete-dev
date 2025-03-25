@@ -10,7 +10,6 @@ technology stack:
 - rest and grpahql apis
 - mongodb and mongoose
 - jest framework
-
+- authorization with oauth (done via deep dive in Oath Authorization Code flow in chapter 9)
 To Do:
-- authorization with oauth
 - containerization with docker
